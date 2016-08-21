@@ -1,7 +1,7 @@
 {
   "meta": {
     "scriptGit": "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-    "shaft": "true"
+    "shaft": "true",
     "scriptFile": "bearing.groovy"
   },
   "6920_2RS": {
