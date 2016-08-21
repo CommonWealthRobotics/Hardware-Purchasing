@@ -1,36 +1,36 @@
 {
   "M3": {
     "M3-Socket-Cap-Screw-5mm": {
-      variantParameters:{"Bolt Length":10},
-      pricsUSD:{1:0.03},
-      urlAPI:"http://localhost:8069",
-  	  db:"testdatabse",
-  	  serverType:"odoo",
-  	  cartURL:"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+      "variantParameters":{"Bolt Length":5},
+      "pricsUSD":{1:0.03},
+      "urlAPI":"http://localhost:8069",
+  	  "db":"testdatabse",
+  	  "serverType":"odoo",
+  	  "cartURL":"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
     },
     "M3-Socket-Cap-Screw-10mm": {
-      variantParameters:{"Bolt Length":10},
-      pricsUSD:{1:0.04},
-      urlAPI:"http://localhost:8069",
-  	  db:"testdatabse",
-  	  serverType:"odoo",
-  	  cartURL:"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+      "variantParameters":{"Bolt Length":10},
+      "pricsUSD":{1:0.03},
+      "urlAPI":"http://localhost:8069",
+  	  "db":"testdatabse",
+  	  "serverType":"odoo",
+  	  "cartURL":"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
     },
     "M3-Socket-Cap-Screw-18mm": {
-      variantParameters:{"Bolt Length":10},
-      pricsUSD:{1:0.05},
-      urlAPI:"http://localhost:8069",
-  	  db:"testdatabse",
-  	  serverType:"odoo",
-  	  cartURL:"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+      "variantParameters":{"Bolt Length":18},
+      "pricsUSD":{1:0.03},
+      "urlAPI":"http://localhost:8069",
+  	  "db":"testdatabse",
+  	  "serverType":"odoo",
+  	  "cartURL":"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
     },
     "M3-Socket-Cap-Screw-25mm": {
-      variantParameters:{"Bolt Length":10},
-      pricsUSD:{1:0.07},
-      urlAPI:"http://localhost:8069",
-  	  db:"testdatabse",
-  	  serverType:"odoo",
-  	  cartURL:"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+      "variantParameters":{"Bolt Length":25},
+      "pricsUSD":{1:0.03},
+      "urlAPI":"http://localhost:8069",
+  	  "db":"testdatabse",
+  	  "serverType":"odoo",
+  	  "cartURL":"http://localhost:8069/shop/product/m3-socket-cap-screw-73"
     }
   }
 }
