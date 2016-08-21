@@ -1,5 +1,18 @@
 {
-  "LME20UU": {},
+  "LME20UU": {
+    "LME20UU-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
   "LM16UU": {
     "LM16UU-variant-1": {
       "variantParameters": {
