@@ -13,6 +13,20 @@
       "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
     }
   },
+  "AT10": {
+    "AT10-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
   "AT20": {
     "AT20-variant-1": {
       "variantParameters": {
