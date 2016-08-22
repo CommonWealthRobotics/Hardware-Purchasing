@@ -1,20 +1,26 @@
-#Hardware-Dimensions
-Hardware dimensions usable in mechanical design.
+#Hardware-Purchasing
+Hardware Purchasing usable in mechanical design.
 
 ##Function
-Dimensions are stored in  JSON files generated BowlerStudio. 
+Purchasing Data are stored in  JSON files generated BowlerStudio. 
 
 
 ```JSON
 {
 "filename" : [
     { 
-    "Row1, Col1" : "Row2, Col1",
-    "Row1, Col2" : "Row2, Col2",
-    },
-     { 
-    "Row1, Col1" : "Row3, Col1",
-    "Row1, Col2" : "Row3, Col2",
+    "M3": {//Vitamin Size ID to reference to CAD
+    "M3-Socket-Cap-Screw-5mm": { //vitamin specific variant ID (Internal Reference in Odoo)
+      "variantParameters": {
+        "Bolt Length": 5
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
     }
     ]
 }   
