@@ -25,7 +25,7 @@
       "db": "testdatabse",
       "serverType": "odoo",
       "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
-    }
+    },
     "M3-Socket-Cap-Screw-10mm": {
       "variantParameters": {
         "Bolt Length": 10.0
