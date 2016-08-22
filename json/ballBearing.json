@@ -1,76 +1,6 @@
 {
-  "608zz": {
-    "608zz-variant-1": {
-      "variantParameters": {
-        "Bolt Length": 10.0
-      },
-      "pricsUSD": {
-        "1": 0.02
-      },
-      "urlAPI": "http://localhost:8069/",
-      "db": "testdatabse",
-      "serverType": "odoo",
-      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
-    }
-  },
-  "607zz": {
-    "607zz-variant-1": {
-      "variantParameters": {
-        "Bolt Length": 10.0
-      },
-      "pricsUSD": {
-        "1": 0.02
-      },
-      "urlAPI": "http://localhost:8069/",
-      "db": "testdatabse",
-      "serverType": "odoo",
-      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
-    }
-  },
-  "606zz": {
-    "606zz-variant-1": {
-      "variantParameters": {
-        "Bolt Length": 10.0
-      },
-      "pricsUSD": {
-        "1": 0.02
-      },
-      "urlAPI": "http://localhost:8069/",
-      "db": "testdatabse",
-      "serverType": "odoo",
-      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
-    }
-  },
-  "605zz": {
-    "605zz-variant-1": {
-      "variantParameters": {
-        "Bolt Length": 10.0
-      },
-      "pricsUSD": {
-        "1": 0.02
-      },
-      "urlAPI": "http://localhost:8069/",
-      "db": "testdatabse",
-      "serverType": "odoo",
-      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
-    }
-  },
-  "604zz": {
-    "604zz-variant-1": {
-      "variantParameters": {
-        "Bolt Length": 10.0
-      },
-      "pricsUSD": {
-        "1": 0.02
-      },
-      "urlAPI": "http://localhost:8069/",
-      "db": "testdatabse",
-      "serverType": "odoo",
-      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
-    }
-  },
-  "603zz": {
-    "603zz-variant-1": {
+  "687zz": {
+    "687zz-variant-1": {
       "variantParameters": {
         "Bolt Length": 10.0
       },
@@ -155,6 +85,90 @@
   },
   "627zz": {
     "627zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "608zz": {
+    "608zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "607zz": {
+    "607zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "606zz": {
+    "606zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "605zz": {
+    "605zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "604zz": {
+    "604zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "603zz": {
+    "603zz-variant-1": {
       "variantParameters": {
         "Bolt Length": 10.0
       },
