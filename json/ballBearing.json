@@ -1,4 +1,186 @@
 {
+  "696zz": {
+    "696zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "695zz": {
+    "695zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "694zz": {
+    "694zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "693zz": {
+    "693zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "699zz": {
+    "699zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "698zz": {
+    "698zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "634zz": {
+    "634zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "697zz": {
+    "697zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "635zz": {
+    "635zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "6920_2RS": {
+    "6920_2RS-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "685zz": {
+    "685zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "684zz": {
+    "684zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
+  "683zz": {
+    "683zz-variant-1": {
+      "variantParameters": {
+        "Bolt Length": 10.0
+      },
+      "pricsUSD": {
+        "1": 0.02
+      },
+      "urlAPI": "http://localhost:8069/",
+      "db": "testdatabse",
+      "serverType": "odoo",
+      "cartURL": "http://localhost:8069/shop/product/m3-socket-cap-screw-73"
+    }
+  },
   "689zz": {
     "689zz-variant-1": {
       "variantParameters": {
